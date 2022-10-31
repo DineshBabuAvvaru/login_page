@@ -1,0 +1,87 @@
+.main {
+  text-align: center;
+  justify-content: center;
+  display:flex;
+  padding: 90px 0 90px 0;
+  background-color: grey;
+  background-size: cover;
+
+}
+
+.sub-main{
+  display: flex;
+  justify-content: center;
+  height:400px;
+  width: 25%;
+  box-shadow: 10px 10px 10px 8px rgb(207, 207, 207);
+  padding-top:30px;
+  border-radius: 60px;
+  background-color: white;
+}
+
+h1 {
+  color:blueviolet;
+  margin-top:10px;
+  margin: 10px;
+}
+
+.username {
+  width: 280px;
+  height: 30px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  padding: 5px;
+  padding-bottom: 5px;
+  background-color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.email{
+  width: 280px;
+  height: 30px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  padding: 5px;
+  padding-bottom: 5px;
+  background-color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.password {
+  width: 280px;
+  height: 30px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  padding: 5px;
+  padding-bottom: 5px;
+  background-color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.confirmPassword{
+  width: 280px;
+  height: 30px;
+  border-radius: 60px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  padding: 5px;
+  padding-bottom: 5px;
+  background-color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+  
+}
+
+.submit {
+  width: 100px;
+      height: 50px;
+      border-radius: 60px;
+      background-color: blueviolet;
+      color: white;
+      font-size: 18px;
+      border: none;
+      margin-top: 10px;
+      
+}
